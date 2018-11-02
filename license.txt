@@ -1,11 +1,19 @@
-Designed by Zerotheme
-Website : https://www.zerotheme.com
-Zerogrid System for Responsive Design - https://www.zerotheme.com/zerogrid-a-simple-grid-system-for-responsive-design
-Contact Form Ready to use - Open file contact.php and change your email.
+№	Задача	Комментарий
+1	Поменять пароль/не подходит пароль для входа в СПЕКТР   	Необходимо удостоверится что речь идет о пароле именно 1с, так как зачастую пользователи путают предупреждение от 1С и от учетки AD. Так же при входе действует двухэтапная аутентификация, на первом шаге пользователи могу вводить пароль от 1С, а не от AD
+2	Изменить статус заказа, соглашения, контрагента	 
+3	Изменить сумму, период соглашения. Сумму контрагента	 
+4	Закрыть заказ	                        Только если ошибка или проблема закрытия. Если не хватает прав то должны обращаться к коллегам, за кем закреплен заказ
+5	Не удается отправить на согласование	 
+6	Отменить процесс согласования	 
+7	Перенаправить согласование	На кого перенаправить
+8	Перенести визирование и задачи на время болезни или отпуска сотрудника	Нужен замещающий сотрудник и период
+9	Выполнить обмен товарами	Номера лотов
+10	Не передались цены товаров в CRM	Номера лотов
+11	Не видно стока по товарам	Уточнить, в какой именно системе, если не СПЕКТР, то вопрос не к нам. Если фиктивный комплект, то стока в СПЕКТРе не будет
+12	Изменить менеджера/инициатора в объекте	 
+13	Ошибка доступа/недостаточно прав	Именно ошибка или проблема с объектами, по которым должен быть доступ
+14	Запрос на расширение прав доступа	Требуется согласование руководителя и Стругова Дмитрия
+15	Некорректные суммы в отчете	 
+16	Некорректная себестоимость	Что сверялось (какие базы и отчеты). Файл с анализом расчетов
+17	Нет кнопки "Открыть на редактирование"	 
 
-/*----License----*/
-+ You have the rights to use the resources for personal and commercial project(s) purposes.
-+ You are not allowed to remove back link at the footer in template. If you want to remove it, you should contact us about this. https://www.zerotheme.com/contact-us
-+ You are allowed to remove back link with basic templates. You can find basic templates at https://www.zerotheme.com/free-basic-responsive-html5-themes
-+ You can not resell, redistribute, license, or sub-license any of the templates without direct permission from Zerotheme.com.
-+ You are not allowed to provide direct link to download or preview template. You must link back to Zerotheme template page where users can find the download and preview template.
